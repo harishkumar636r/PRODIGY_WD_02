@@ -32,13 +32,13 @@ This project focuses on clean UI, smooth navigation, and user-friendly design.
 
 ## 📁 Project Structure
 portfolio/
-── index.html
+── index.html/
 ── style.css
 ── script.js
 ── images/
 ── profile.jpg
- └── project-images/
- ── README.md
+── project-images/
+── README.md
 
 ---
 
