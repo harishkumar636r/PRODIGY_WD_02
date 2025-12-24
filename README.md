@@ -41,7 +41,8 @@ portfolio/
 ---
 
 🌍 Live Demo
-  🔗
+  🔗https://harishkumar636r.github.io/PRODIGY_WD_02/
+  
 🎯 Purpose of This Project
 - Build a professional portfolio website
 - Practice front-end development skills
