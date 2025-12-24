@@ -32,13 +32,13 @@ This project focuses on clean UI, smooth navigation, and user-friendly design.
 
 ## 📁 Project Structure
 portfolio/
-│── index.html
-│── style.css
-│── script.js
-│── images/
-│ ├── profile.jpg
-│ └── project-images/
-│── README.md
+── index.html
+── style.css
+── script.js
+── images/
+── profile.jpg
+ └── project-images/
+ ── README.md
 
 ---
 
@@ -63,7 +63,6 @@ portfolio/
 -  GitHub: https://github.com/YOUR_USERNAME
 
 📜 License
-
-This project is open-source and free to use for learning purposes.
-
+ -  This project is open-source and free to use for learning purposes.
+   
 ⭐ If you like this project, don’t forget to star the repository!
