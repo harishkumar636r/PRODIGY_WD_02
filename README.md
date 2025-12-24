@@ -43,31 +43,24 @@ portfolio/
 ---
 
 🌍 Live Demo
-  🔗 https://YOUR_USERNAME.github.io/portfolio/
+  🔗[ https://YOUR_USERNAME.github.io/portfolio/](https://github.com/harishkumar636r/https-github.com-HarishPortfolio)
 
 🎯 Purpose of This Project
-Build a professional portfolio website
-
-Practice front-end development skills
-
-Improve UI/UX design understanding
-
-Use in internships, placements, and freelancing
+- Build a professional portfolio website
+- Practice front-end development skills
+- Improve UI/UX design understanding
+- Use in internships, placements, and freelancing
 
 🚀 Future Improvements
-Add dark mode
-
-Add animations using CSS / JavaScript
-
-Add contact form with backend integration
-
-Improve accessibility (ARIA labels)
+-  Add dark mode
+-  Add animations using CSS / JavaScript
+-  Add contact form with backend integration
+-  Improve accessibility (ARIA labels)
 
 🤝 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/YOUR_LINK
-
-GitHub: https://github.com/YOUR_USERNAME
+-  LinkedIn: https://www.linkedin.com/in/YOUR_LINK
+-  GitHub: https://github.com/YOUR_USERNAME
 
 📜 License
 
