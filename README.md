@@ -42,17 +42,8 @@ portfolio/
 
 ---
 
-## ⚙️ How to Run Locally
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/portfolio.git
-Open the project folder
-
-Double-click index.html
-OR open with Live Server in VS Code
-
 🌍 Live Demo
-🔗 https://YOUR_USERNAME.github.io/portfolio/
+  🔗 https://YOUR_USERNAME.github.io/portfolio/
 
 🎯 Purpose of This Project
 Build a professional portfolio website
