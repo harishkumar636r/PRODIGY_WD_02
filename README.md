@@ -32,19 +32,16 @@ This project focuses on clean UI, smooth navigation, and user-friendly design.
 
 ## 📁 Project Structure
 portfolio/
-── index.html/
+── index.html
 ── style.css
 ── script.js
-── images/
-── profile.jpg
-── project-images/
+── profile.jp
 ── README.md
 
 ---
 
 🌍 Live Demo
-  🔗[ https://YOUR_USERNAME.github.io/portfolio/](https://github.com/harishkumar636r/https-github.com-HarishPortfolio)
-
+  🔗
 🎯 Purpose of This Project
 - Build a professional portfolio website
 - Practice front-end development skills
@@ -59,8 +56,8 @@ portfolio/
 
 🤝 Connect With Me
 
--  LinkedIn: https://www.linkedin.com/in/YOUR_LINK
--  GitHub: https://github.com/YOUR_USERNAME
+-  LinkedIn: www.linkedin.com/in/harish-kumar-r-636900r
+-  GitHub: [ https://YOUR_USERNAME.github.io/portfolio/](https://github.com/harishkumar636r/https-github.com-HarishPortfolio)
 
 📜 License
  -  This project is open-source and free to use for learning purposes.
