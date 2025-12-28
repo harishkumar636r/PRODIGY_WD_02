@@ -52,7 +52,6 @@ body {
   text-align: center;
 }
 
-/* HERO */
 .hero {
   display: flex;
   align-items: center;
@@ -116,7 +115,6 @@ body {
   background: #f4f6f8;
 }
   
-/* SKILLS */
 .skills {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
@@ -145,7 +143,6 @@ body {
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
-/* FOOTER */
 footer {
   background: #111;
   color: white;
@@ -153,7 +150,6 @@ footer {
   padding: 20px;
 }
 
-/* RESPONSIVE */
 @media (max-width: 768px) {
   .hero {
     text-align: center;
