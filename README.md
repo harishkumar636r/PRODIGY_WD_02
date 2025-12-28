@@ -31,12 +31,17 @@ This project focuses on clean UI, smooth navigation, and user-friendly design.
 ---
 
 ## 📁 Project Structure
-portfolio/
-── index.html
-── style.css
-── script.js
-── profile.jp
-── README.md
+portfolio
+
+index.html
+
+style.css
+
+script.js
+
+profile.jp
+
+README.md
 
 ---
 
